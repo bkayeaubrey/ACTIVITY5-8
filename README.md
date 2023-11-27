@@ -8,6 +8,6 @@ Adding new faculty member
 Editing and updating data, then by clicking the edit you may then press delete button to delete the certain row
 ![Screenshot (364)](https://github.com/bkayeaubrey/ACTIVITY5-8/assets/125627955/d4bde31b-99f0-40e4-9afc-153f1ccdc409)
 ![Screenshot (365)](https://github.com/bkayeaubrey/ACTIVITY5-8/assets/125627955/21140fc2-9612-4747-a862-24d32b9bd710)
-![Screenshot (367)](https://github.com/bkayeaubrey/ACTIVITY5-8/assets/125627955/9817988f-a7eb-4887-ab44-ef3b11284917)
+Light and dark mode toggle
 ![Screenshot (368)](https://github.com/bkayeaubrey/ACTIVITY5-8/assets/125627955/38c04b3e-3664-4864-8f9c-4e09c7a28d5d)
 ![Screenshot (369)](https://github.com/bkayeaubrey/ACTIVITY5-8/assets/125627955/10bee87e-75aa-4ccc-94f7-3b64f788f7fc)
